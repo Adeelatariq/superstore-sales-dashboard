@@ -8,10 +8,10 @@ Interactive sales dashboard built using Tableau Public.
 ## 📸 Preview
 
 ### Sales by Category
-![Sales by Category](Sales by category.png)
+[Sales by Category](Sales by category.png)
 
 ### Sales Over Time
-![Sales Over Time](Sales over time.png)
+[Sales Over Time](sales-over-time.png)
 
 ## 🔍 Key Insights
 - Technology leads in total sales
