@@ -5,9 +5,13 @@ Interactive sales dashboard built using Tableau Public.
 ## 📊 Dashboard Link
 [View Live Dashboard](https://public.tableau.com/app/profile/adeela.tariq/viz/SuperstoreSalesAnalysis_17857204888310/Dashboard1)
 
-## 📈 Visualizations
-- Sales by Category (Bar Chart)
-- Sales Trends 2023-2026 (Line Chart)
+## 📸 Preview
+
+### Sales by Category
+![Sales by Category](sales-by-category.png)
+
+### Sales Over Time
+![Sales Over Time](sales-over-time.png)
 
 ## 🔍 Key Insights
 - Technology leads in total sales
